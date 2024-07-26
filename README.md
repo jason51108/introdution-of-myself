@@ -7,7 +7,7 @@
 </picture>
 
 ## About me
-Welcome to my GitHub! Currently, I am pursuing a master's degree in Applied Statistics at Shanghai University of International Business and Economics. My research focuses on Time series analysis. In September of this year, I'll be heading to Southern University of Science and Technology to pursue a Ph.D. in Mathematics, specializing in graph neural networks and causal inference. During my free time, I enjoy writing some interesting code. If you have any questions about my projects, feel free to contact me via email.
+Welcome to my GitHub! My research focuses on Time series analysis. In September of this year, I'll be heading to Southern University of Science and Technology to pursue a Ph.D. in Mathematics, specializing in graph neural networks and causal inference. During my free time, I enjoy writing some interesting code. If you have any questions about my projects, feel free to contact me via email.
 The more detailed content is as follows.
 
 - 👋 Postgraduate, Majored in Applied Statistics
